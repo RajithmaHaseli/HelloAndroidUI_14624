@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HelloAndroidUI_14624_Haseli" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+       <item name="colorPrimary">@color/primary_blue</item>
+    </style>
+
+    <style name="Theme.HelloAndroidUI_14624_Haseli" parent="Base.Theme.HelloAndroidUI_14624_Haseli" />
+</resources>
